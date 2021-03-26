@@ -1,0 +1,14 @@
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.deps.json
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.runtimeconfig.json
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.dll
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.pdb
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.RazorAssemblyInfo.cache
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.RazorAssemblyInfo.cs
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.AssemblyInfo.cs
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.RazorTargetAssemblyInfo.cache
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.dll
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.pdb
