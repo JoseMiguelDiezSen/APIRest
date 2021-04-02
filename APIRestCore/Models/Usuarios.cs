@@ -31,6 +31,8 @@ namespace APIRestCore.Models
             _listaUsuarios.Add(nuevoUsuario);
         }
 
+
+
         public void Actualizar(int id)
         {
             Usuario usuario = new Usuario();
