@@ -13,7 +13,7 @@ using Swashbuckle.AspNetCore.Swagger;
 
 namespace APIRestCore
 {
-    //Clase Startup 1677
+    //Clase Startup 1677noo
     public class Startup
     {
         public Startup(IConfiguration configuration)
