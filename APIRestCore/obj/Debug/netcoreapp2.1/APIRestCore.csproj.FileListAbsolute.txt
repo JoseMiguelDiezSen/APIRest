@@ -12,3 +12,11 @@ C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRe
 C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.RazorTargetAssemblyInfo.cache
 C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.dll
 C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.pdb
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.xml
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\APIRestCore.dll.config
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\EntityFramework.dll
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\ClassLibrary1.dll.config
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\bin\Debug\netcoreapp2.1\EntityFramework.xml
+C:\Users\Jose\source\repos\APIRestCore\APIRestCore\obj\Debug\netcoreapp2.1\APIRestCore.csproj.CopyComplete

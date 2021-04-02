@@ -19,6 +19,7 @@ namespace APIRestCore.Models
             return _listaUsuarios;
         }
         
+        
         public Usuario ObtenerUsuario(int id)
         {
             var usuario = _listaUsuarios.Where(user => user.Id == id);
@@ -32,7 +33,12 @@ namespace APIRestCore.Models
 
         public void Actualizar(int id)
         {
+            Usuario usuario = new Usuario();
+            usuario.Id = 0;
+            usuario.Nombre = string.Empty;
+            usuario.Apellido = string.Empty;
 
+            _listaUsuarios.Add(usuario);
         }
 
         public void Eliminar(int id)
